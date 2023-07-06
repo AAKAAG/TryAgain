@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TryAgain/static/css/main.bd2006dc.css",
-    "main.js": "/TryAgain/static/js/main.e2f1ffb3.js",
+    "main.js": "/TryAgain/static/js/main.c75cd203.js",
     "static/media/orkney-regular.otf": "/TryAgain/static/media/orkney-regular.5b030529f4435f9d7dde.otf",
     "static/media/GearsOfPeace.ttf": "/TryAgain/static/media/GearsOfPeace.df03d7fba0fdf3f8b9ec.ttf",
     "index.html": "/TryAgain/index.html",
     "main.bd2006dc.css.map": "/TryAgain/static/css/main.bd2006dc.css.map",
-    "main.e2f1ffb3.js.map": "/TryAgain/static/js/main.e2f1ffb3.js.map"
+    "main.c75cd203.js.map": "/TryAgain/static/js/main.c75cd203.js.map"
   },
   "entrypoints": [
     "static/css/main.bd2006dc.css",
-    "static/js/main.e2f1ffb3.js"
+    "static/js/main.c75cd203.js"
   ]
 }
